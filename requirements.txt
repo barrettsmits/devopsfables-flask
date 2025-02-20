@@ -1,0 +1,2 @@
+Flask==2.3.3  # Or the latest version you’re using
+gunicorn==20.1.0  # For running Flask in production
